@@ -27,3 +27,10 @@ print (age)
 total = 10+20+30+\
 10+10
 print (total)
+
+#This is the fifth command_______
+
+x=10
+y=20
+z= x+y
+print (z)
