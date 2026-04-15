@@ -34,3 +34,16 @@ x=10
 y=20
 z= x+y
 print (z)
+
+age = 23
+name = "Lahiru Avishka Madhusanka"
+
+print (type(age))
+print (type(name))
+
+
+age = 25
+if age>20:
+    print(age)
+
+    
