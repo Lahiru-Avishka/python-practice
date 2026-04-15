@@ -46,4 +46,12 @@ age = 25
 if age>20:
     print(age)
 
-    
+
+
+if True:
+    print ("This is true")
+    if False:
+        print ("This is false")
+    print ("This is true :001")
+
+print ("This is true :002")
