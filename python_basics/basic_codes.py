@@ -22,3 +22,8 @@ if age > 18:
 
 print (age)
 
+#This is the fourth command_______
+
+total = 10+20+30+\
+10+10
+print (total)
