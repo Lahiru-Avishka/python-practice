@@ -55,3 +55,11 @@ height=5.11
 float(int(height))
 
 
+
+#In Python, you can also use the input() function to get user input and store it in a variable.
+#For example:   
+user_name = input("Enter your name :")
+print ("hello", user_name)
+
+
+
